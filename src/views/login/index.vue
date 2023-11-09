@@ -195,7 +195,7 @@ export default {
       refreshParticles: true,
       loginForm: {
         username: 'admin',
-        password: '123456',
+        password: 'wgYoVaLXNGCXqcNY',
         rememberMe: false,
         code: '',
         uuid: ''
