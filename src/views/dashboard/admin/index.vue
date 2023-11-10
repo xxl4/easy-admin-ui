@@ -58,7 +58,7 @@
         </chart-card>
       </el-col>
     </el-row>
-
+<!--
     <el-card :bordered="false" :body-style="{padding: '0'}">
       <div class="salesCard">
         <el-tabs>
@@ -85,6 +85,7 @@
         </el-tabs>
       </div>
     </el-card>
+  -->
 
   </div>
 </template>

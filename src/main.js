@@ -10,6 +10,7 @@ import './styles/element-variables.scss'
 
 import '@/styles/index.scss' // global css
 import '@/styles/admin.scss'
+import 'element-ui/lib/theme-chalk/index.css'
 
 import VueCodemirror from 'vue-codemirror'
 import 'codemirror/lib/codemirror.css'
